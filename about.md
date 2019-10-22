@@ -1,0 +1,26 @@
+---
+layout: page
+title: À propos du Ch'ti JUG
+permalink: /about/
+---
+
+Il existe en France et dans le monde des groupes qui se rassemblent pour échanger sur les technologies Java; On les appelle des Java User Groups (JUG).
+
+Le Ch’ti JUG est un groupe de développeurs ayant pour but de fédérer, rassembler et animer la communauté des développeurs autours de Lille. Notre mission est d’organiser chaque mois une rencontre ayant pour thème le développement logiciel au sens large. Ces évènements sont mensuels, gratuits, et ouverts à tous. Chaque rencontre consiste en une présentation que se poursuis généralement autour d’un verre et d’un buffet. Vous pouvez y participer de plusieurs manières en tant que :
+
+- Spectateur: venez écouter une conférence et échanger avec des passionnés de Java
+- Intervenant / Speaker: vous avez un thème de prédilection, vous êtes actif dans la communauté open source, vous utilisez de manière approfondie une APIs, un logiciel… Venez animer une session !
+- Sponsor / Partenaire: vous trouvez l’idée du Java User Group intéressante, vous souhaitez vous impliquer en sponsorisant les évènements
+
+Dans tous les cas, pour être tenu au courant des évènements et de l’évolution du JUG, il suffit de s’inscrire sur notre meetup. Une fois inscrit à un évènement, vous serez contactez automatiquement pour les suivants.
+
+Le Ch’ti JUG est indépendant de toute autre organisme. Nous nous appuyons sur des sponsors pour faire vivre l’organisation.
+
+N’hésitez-pas à parler de ce site parmi vos collègues, partenaires ou entreprises avec qui vous travaillez.
+
+En espérant vous voir nombreux,
+
+L’équipe du Ch’ti JUG : [team@chtijug.org](mailto:team@chtijug.org)
+
+Julien, Cyril, Thomas, Jeremy, Raphaël, Guillaume, Gauthier, Thibaut, Loïc, Logan, Raphael
+
