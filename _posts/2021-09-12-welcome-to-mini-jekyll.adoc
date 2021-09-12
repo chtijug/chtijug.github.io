@@ -2,3 +2,7 @@
 layout: post
 title:  "Welcome to Mini-Jekyll!"
 ---
+
+Ceci est un corps de message en asciidoc : mailto:devel@discuss.example.org[Discuss]
+
+Ceci est un corps de message en markdown : [Discuss](mailto:devel@discuss.example.org)
