@@ -2,3 +2,4 @@
 layout: home
 ---
 
+Ceci est un texte sur la page d'acceuil.

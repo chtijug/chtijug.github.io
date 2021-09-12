@@ -5,7 +5,7 @@ permalink: /contact-equipe/
 ---
 
 
-Pour nous contacter, une seule adresse : team@chtijug.org[mailto:team@chtijug.org]
+Pour nous contacter, une seule adresse : team@chtijug.org
 
 Les membres de l’équipe du Ch’ti JUG sont :
 

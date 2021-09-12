@@ -1,7 +1,7 @@
 ---
 layout: page
 title: À propos du Ch'ti JUG
-permalink: /about/
+permalink: /a-propos/
 ---
 
 Il existe en France et dans le monde des groupes qui se rassemblent pour échanger sur les technologies Java; On les appelle des Java User Groups (JUG).
@@ -20,7 +20,7 @@ N’hésitez-pas à parler de ce site parmi vos collègues, partenaires ou entre
 
 En espérant vous voir nombreux,
 
-L’équipe du Ch’ti JUG : [team@chtijug.org](mailto:team@chtijug.org)
+L’équipe du Ch’ti JUG : team@chtijug.org
 
 Julien, Cyril, Thomas, Jeremy, Raphaël, Guillaume, Gauthier, Thibaut, Loïc, Logan, Raphael
 
