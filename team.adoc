@@ -1,0 +1,17 @@
+---
+layout: page
+title: Contact / Équipe
+permalink: /contact-equipe/
+---
+
+
+Pour nous contacter, une seule adresse : team@chtijug.org[mailto:team@chtijug.org]
+
+Les membres de l’équipe du Ch’ti JUG sont :
+
+- Julien Jakubowski
+- Cyril Lakech
+- Thomas Recloux
+- Jérémy Sevellec
+
+
