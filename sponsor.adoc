@@ -1,0 +1,48 @@
+---
+layout: page
+title: Devenez sponsor
+permalink: /devenez-sponsor/
+---
+
+
+# Qu’est-ce qu’un JUG ?
+
+Un JUG (Java™ User Group) est une communauté indépendante, constituée en association sans but lucratif, qui rassemble les acteurs régionaux (industriels, universitaires, chercheurs, étudiants, recruteurs…) qui partagent un intérêt pour la technologie Java™. L’association réunit régulièrement ses membres pour échanger leurs idées, points de vue et expériences relatifs à cette technologie. Ces échanges peuvent prendre la forme de conférences, tables rondes,démonstrations, ateliers… selon l’intervenant et le sujet.
+
+Ces réunions sont aussi l’occasion pour les participants de se rencontrer et nouer des nouveaux contacts autour du drink ou du buffet qui clôture traditionnellement les évènements d’un JUG.
+
+En tant qu’inventeur du langage Java™, Sun Microsystems et maintenant Oracle encourage et reconnaît (label) les JUG comme vecteurs de promotion pour cette technologie – cf. http://java.sun.com/community/usergroups/
+
+Il existe des centaines de JUG dans le monde, une quinzaine en France, et le Ch’ti JUG est le JUG lillois.
+
+# Objectifs
+
+Nous nous fixons comme objectif de réunir les acteurs des technologies Java™ de la région Nord Pas-de-Calais pour :
+
+- Partager la connaissance et les expériences autour des technologies Java™, et plus généralementde « l’écosystème » Java.
+- Favoriser les échanges entre acteurs Java régionaux, aussi bien industriels qu’universitaires etétudiants
+- Promouvoir les technologies Java™ et associées dans la région
+
+Le tout dans un état d’esprit qui se veut professionnel pour le contenu et convivial pour la forme.
+
+# Activité
+
+Depuis mai 2009, nous assurons une session par mois, avec des intervenants reconnus et référents dans leur domaine, français ou internationaux.
+
+Les sujets concernent Java mais aussi « l’ecosystème » dont il fait partie. Voici quelques exemples :
+
+- La dernière norme Java EE 6, par Antonio Goncalves qui participe à la spécification
+- Hibernate Search, par Emmanuel Bernard, leader du projet chez JBoss
+- HTML 5 et WebSockets: un intervenant de la société Kaazing est venu de Californie pour nous présenter ces technologies particulièrement innovantes
+- Le moteur de règles open source Drools et le projet Drools Planner, présenté par leurs leaders respectifs britannique et belge
+
+# Pourquoi sponsoriser le Ch’ti JUG ?
+
+En sponsorisant le Ch’ti JUG, une société à l’opportunité d’associer son image à l’expertise Java et à l’innovation, devant un public ciblé composé majoritairement d’experts passionnés d’horizons divers (SSII, sociétés utilisatrices, universitaires…), mais aussi d’étudiants et de décideurs.
+
+Le Ch’ti JUG est une occasion pour vos collaborateurs d’être en contact avec des experts internationaux, de bénéficier d’une veille technologique afin de rester compétitifs, et d’échanger avec leurs collègues sur l’état de l’art. Sponsoriser le JUG, c’est pouvoir continuer à assurer cette activité et investir sur son développement.
+
+Aujourd’hui, plus de 10 sponsors nous ont fait confiance : SSII, éditeurs, et DSI d’entreprises utilisatrices comme Adeo.
+Comment sponsoriser le Ch’ti JUG ?
+
+Il vous suffit de nous contacter en nous écrivant à team@chtijug.org[mailto:team@chtijug.org]
