@@ -1,0 +1,25 @@
+---
+layout: page
+title: Partenaires
+permalink: /partenaires/
+---
+
+# Partenaires
+
+Le Ch’ti JUG collabore avec des partenaires pour organiser les différentes sessions.
+
+Voici ceux qui nous accompagnent dans notre démarche :
+
+image:/assets/images/partners/jetbrains.png[title="JetBrains",height="80"]
+
+*JetBrains* nous donne 2 licences par session, une pour le speaker et une pour les membres. Les licences sont valables pour un et un seul des produits de Jetbrains: IntelliJ IDEA, ReSharper, dotTrace, TeamCity ou RubyMine.
+
+Des éditeurs nous envoient pour nos membres des livres sur les thèmes liés au Ch’ti JUG :
+
+image:/assets/images/partners/eyrolles.png[title="Eyrolles",height="60"]
+image:/assets/images/partners/pearson.png[title="Persone",height="60"]
+image:/assets/images/partners/oreilly.svg[title="O'Reilly",height="50"]
+image:/assets/images/partners/dunod.png[title="Dunod",height="60"]
+
+Le Ch’ti JUG continue de développer de nouveaux partenariats pour la communauté.
+link:/contact-equipe/[Contactez-nous!]

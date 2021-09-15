@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "JHipster - générer, développer des applis Web avec Spring Boot et Angular/React"
+date:   2018-09-18 16:17:57 +0200
+categories: JHipster
+regenerate: true
+---
+
+Bonjour,
+
+Nous avons le plaisir de vous convier à la prochaine session du Ch’ti JUG qui se déroulera le *Jeudi 20 septembre 2018 à 18h30* dans les locaux d’AXA France, à Wasquehal.
+La session sera animée par Julien Dubois et aura pour sujet JHipster.
+
+JHipster est aujourd’hui l’un des projets Open Source Français les plus populaires, avec plus de 11,000 étoiles sur GitHub, près de 500 contributeurs, et des centaines d’entreprises utilisatrices.
+Il permet de générer en un temps record une application complète, utilisant une stack moderne basée sur Spring Boot, Angular ou React.
+L’intégration de nombreuses technologies prêtes à l’emploi, avec un focus à la fois sur l’expérience développeur, la qualité du code et la mise en production, en font un outil reconnu pour qui veut rapidement réaliser une application métier.
+Dans cette session introductive, nous étudierons les principales options proposées par JHipster, et nous réaliserons une application de bout en bout: génération du code, développement de composants en utilisant les workflows prêts à l’emploi, et mise en production.
+Ce sera également l’occasion de faire le point sur les nouveautés apportées par JHipster 5, qui vient de sortir, et parler de la roadmap du projet.
+
+Julien Dubois est le créateur et principal développeur de JHipster.
+Il est également directeur de l’innovation chez Ippon Technologies.
+Pour suivre Julien sur Twitter: https://twitter.com/juliendubois
+
+Merci à AXA France qui sera le sponsor et nous accueillera pour cette session  image:/assets/images/sponsors/axa.png[Zenika,50,align="left"].
+
+Nous tenons également à remercier nos 3 sponsors annuels qui soutiennent notre association :
+
+image:/assets/images/sponsors/zenika.png[title="Zenika",height=70]
+image:/assets/images/sponsors/kalicustomer.png[title="Kalicustomer",height=70]
+image:/assets/images/sponsors/axa.png[title="AXA", height=70]
+
+Les inscriptions se font via https://www.meetup.com/fr-FR/ChtiJUG/[Meetup].
+
+A bientôt,
+
+L’équipe du Ch’ti JUG

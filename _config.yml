@@ -4,3 +4,9 @@ theme: minima
 exclude:
   - Gemfile
 
+disqus:
+  shortname: chtijug
+minima:
+  social_links:
+    twitter: chtijug
+    github: chtijug
