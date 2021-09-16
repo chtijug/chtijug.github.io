@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chtijug.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chtijug.github.io/" rel="alternate" type="text/html" /><updated>2021-09-16T01:17:58+00:00</updated><id>https://chtijug.github.io/feed.xml</id><title type="html">Ch’ti JUG</title><subtitle>El groupe Java din ch'Nord ed' la France</subtitle><author><name>La Team Ch'ti JUG</name></author><entry><title type="html">JHipster - générer, développer des applis Web avec Spring Boot et Angular/React</title><link href="https://chtijug.github.io/jhipster/2018/09/18/jhipster.html" rel="alternate" type="text/html" title="JHipster - générer, développer des applis Web avec Spring Boot et Angular/React" /><published>2018-09-18T14:17:57+00:00</published><updated>2018-09-18T14:17:57+00:00</updated><id>https://chtijug.github.io/jhipster/2018/09/18/jhipster</id><content type="html" xml:base="https://chtijug.github.io/jhipster/2018/09/18/jhipster.html">&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Bonjour,&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Nous avons le plaisir de vous convier à la prochaine session du Ch’ti JUG qui se déroulera le &lt;strong&gt;Jeudi 20 septembre 2018 à 18h30&lt;/strong&gt; dans les locaux d’AXA France, à Wasquehal.
+La session sera animée par Julien Dubois et aura pour sujet JHipster.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;JHipster est aujourd’hui l’un des projets Open Source Français les plus populaires, avec plus de 11,000 étoiles sur GitHub, près de 500 contributeurs, et des centaines d’entreprises utilisatrices.
+Il permet de générer en un temps record une application complète, utilisant une stack moderne basée sur Spring Boot, Angular ou React.
+L’intégration de nombreuses technologies prêtes à l’emploi, avec un focus à la fois sur l’expérience développeur, la qualité du code et la mise en production, en font un outil reconnu pour qui veut rapidement réaliser une application métier.
+Dans cette session introductive, nous étudierons les principales options proposées par JHipster, et nous réaliserons une application de bout en bout: génération du code, développement de composants en utilisant les workflows prêts à l’emploi, et mise en production.
+Ce sera également l’occasion de faire le point sur les nouveautés apportées par JHipster 5, qui vient de sortir, et parler de la roadmap du projet.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Julien Dubois est le créateur et principal développeur de JHipster.
+Il est également directeur de l’innovation chez Ippon Technologies.
+Pour suivre Julien sur Twitter: &lt;a href=&quot;https://twitter.com/juliendubois&quot; class=&quot;bare&quot;&gt;https://twitter.com/juliendubois&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Merci à AXA France qui sera le sponsor et nous accueillera pour cette session  &lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/assets/images/sponsor/axa.png&quot; alt=&quot;Zenika&quot; width=&quot;50&quot;&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Nous tenons également à remercier nos 3 sponsors annuels qui soutiennent notre association :&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/assets/images/sponsor/zenika.png&quot; alt=&quot;zenika&quot; height=&quot;70&quot; title=&quot;Zenika&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/assets/images/sponsor/kalicustomer.png&quot; alt=&quot;kalicustomer&quot; height=&quot;70&quot; title=&quot;Kalicustomer&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/assets/images/sponsor/axa.png&quot; alt=&quot;axa&quot; height=&quot;70&quot; title=&quot;AXA&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Les inscriptions se font via &lt;a href=&quot;https://www.meetup.com/fr-FR/ChtiJUG/&quot;&gt;Meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;A bientôt,&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;L’équipe du Ch’ti JUG&lt;/p&gt;
+&lt;/div&gt;</content><author><name>La Team Ch'ti JUG</name></author><category term="JHipster" /><summary type="html">Bonjour,</summary></entry></feed>
