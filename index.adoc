@@ -15,11 +15,11 @@ Ce blog pourra contenir des annonces non liées aux évènements du JUG.
 A bientôt,  
 L'équipe du Ch'ti JUG.
 
-## Nos Sponsors Annuels 2021
+## Nos Sponsors annuels 2021
 
-Ch'ti JUG est une association sponsorisée par les sponsors annuels suivants :
+Ch'ti JUG est une organisation sponsorisée par les sponsors annuels suivants :
 
-image:/assets/images/sponsors/zenika.png[title="Zenika",height=80] et
-image:/assets/images/sponsors/mediatech-cx.svg[title="Kalicustomer",height=80]
+image:/assets/images/sponsor/zenika.png[title="Zenika",alt="Zenika",height=80] et
+image:/assets/images/sponsor/mediatech-cx.svg[title="Mediatech-CX",alt="Mediatech-CX",height=80]
 
 Nous tenons à les remercier pour leur confiance et leur engagement.

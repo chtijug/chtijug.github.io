@@ -3,10 +3,12 @@ description: El groupe Java din ch'Nord ed' la France
 theme: minima
 exclude:
   - Gemfile
-
+url: https://chtijug.github.io
 disqus:
   shortname: chtijug
-minima:
-  social_links:
-    twitter: chtijug
-    github: chtijug
+twitter_username: chtijug
+github_username: chtijug
+youtube_channel: UCjdAEnxpuZlM1xb50hKj8fg
+youtube_channel_name: Ch'ti JUG
+author:
+  name: La Team Ch'ti JUG

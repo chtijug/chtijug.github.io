@@ -21,13 +21,13 @@ Julien Dubois est le créateur et principal développeur de JHipster.
 Il est également directeur de l’innovation chez Ippon Technologies.
 Pour suivre Julien sur Twitter: https://twitter.com/juliendubois
 
-Merci à AXA France qui sera le sponsor et nous accueillera pour cette session  image:/assets/images/sponsors/axa.png[Zenika,50,align="left"].
+Merci à AXA France qui sera le sponsor et nous accueillera pour cette session  image:/assets/images/sponsor/axa.png[Zenika,50,align="left"].
 
 Nous tenons également à remercier nos 3 sponsors annuels qui soutiennent notre association :
 
-image:/assets/images/sponsors/zenika.png[title="Zenika",height=70]
-image:/assets/images/sponsors/kalicustomer.png[title="Kalicustomer",height=70]
-image:/assets/images/sponsors/axa.png[title="AXA", height=70]
+image:/assets/images/sponsor/zenika.png[title="Zenika",height=70]
+image:/assets/images/sponsor/kalicustomer.png[title="Kalicustomer",height=70]
+image:/assets/images/sponsor/axa.png[title="AXA", height=70]
 
 Les inscriptions se font via https://www.meetup.com/fr-FR/ChtiJUG/[Meetup].
 
