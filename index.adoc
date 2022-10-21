@@ -20,3 +20,11 @@ image:/assets/images/sponsor/octo-nord.png[title="OCTO Nord",alt="OCTO Nord",hei
 image:/assets/images/sponsor/zenika.png[title="Zenika",alt="Zenika",height=80]
 
 Nous tenons à les remercier pour leur confiance et leur engagement.
+
+## Nos partenaires
+
+Le Ch’ti JUG collabore avec des partenaires pour organiser les différentes sessions.
+
+image:/assets/images/partner/jetbrains.png[title="JetBrains",height="120",align="center"]
+
+*JetBrains* nous donne 2 licences par session, une pour le speaker et une pour les membres. Les licences sont valables pour un et un seul des produits de Jetbrains: IntelliJ IDEA, ReSharper, dotTrace, TeamCity ou RubyMine.

@@ -17,7 +17,7 @@ Vous pouvez y participer de plusieurs manières en tant que :
 - *Intervenante* / *Speaker*: vous avez un thème de prédilection, vous êtes actif dans la communauté open source, vous utilisez de manière approfondie une APIs, un logiciel… Venez animer une session !
 - *Sponsor* / *Partenaire*: vous trouvez l’idée du Java User Group intéressante, vous souhaitez vous impliquer en sponsorisant les évènements
 
-Dans tous les cas, pour être tenu au courant des évènements et de l’évolution du JUG, il suffit de s’inscrire sur notre Meetup: https://www.meetup.com/fr-FR/ChtiJUG/.
+Dans tous les cas, pour être tenu au courant des évènements et de l’évolution du JUG, il suffit de s’inscrire sur notre https://www.meetup.com/fr-FR/ChtiJUG/[Meetup].
 Une fois inscrit à un évènement, on vous contacte automatiquement pour les suivants.
 
 Le Ch’ti JUG est indépendant de toute autre organisme.
