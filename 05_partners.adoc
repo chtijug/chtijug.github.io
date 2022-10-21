@@ -14,12 +14,5 @@ image:/assets/images/partner/jetbrains.png[title="JetBrains",height="120",align=
 
 *JetBrains* nous donne 2 licences par session, une pour le speaker et une pour les membres. Les licences sont valables pour un et un seul des produits de Jetbrains: IntelliJ IDEA, ReSharper, dotTrace, TeamCity ou RubyMine.
 
-Des éditeurs nous envoient pour nos membres des livres sur les thèmes liés au Ch’ti JUG :
-
-image:/assets/images/partner/eyrolles.png[title="Eyrolles",height="60"]
-image:/assets/images/partner/pearson.png[title="Persone",height="60"]
-image:/assets/images/partner/oreilly.svg[title="O'Reilly",height="50"]
-image:/assets/images/partner/dunod.png[title="Dunod",height="60"]
-
 Le Ch’ti JUG continue de développer de nouveaux partenariats pour la communauté.
 link:/contact-equipe/[Contactez-nous!]
