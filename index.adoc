@@ -6,16 +6,11 @@ layout: home
 
 Bonjour,
 
-Désormais, les prochains évènements ne seront plus annoncés sur ce blog mais uniquement sur notre https://www.meetup.com/fr-FR/ChtiJUG/[Meetup] et notre compte https://twitter.com/chtijug[Twitter].
-
-Si vous utilisez un lecteur de flux RSS, votre flux ne contiendra plus les prochains évènements.
+Les prochains évènements ne sont pas annoncés sur ce site mais uniquement sur notre https://www.meetup.com/fr-FR/ChtiJUG/[Meetup] et notre compte https://twitter.com/chtijug[Twitter].
 
 Ce blog pourra contenir des annonces non liées aux évènements du JUG.
 
-A bientôt,  
-L'équipe du Ch'ti JUG.
-
-## Nos Sponsors annuels 2021
+## Nos Sponsors annuels 2022
 
 Ch'ti JUG est une organisation sponsorisée par les sponsors annuels suivants :
 
