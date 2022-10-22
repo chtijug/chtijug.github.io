@@ -6,20 +6,25 @@ layout: home
 
 Bonjour,
 
-Désormais, les prochains évènements ne seront plus annoncés sur ce blog mais uniquement sur notre https://www.meetup.com/fr-FR/ChtiJUG/[Meetup] et notre compte https://twitter.com/chtijug[Twitter].
-
-Si vous utilisez un lecteur de flux RSS, votre flux ne contiendra plus les prochains évènements.
+Les prochains évènements ne sont pas annoncés sur ce site mais uniquement sur notre https://www.meetup.com/fr-FR/ChtiJUG/[Meetup] et notre compte https://twitter.com/chtijug[Twitter].
 
 Ce blog pourra contenir des annonces non liées aux évènements du JUG.
 
-A bientôt,  
-L'équipe du Ch'ti JUG.
-
-## Nos Sponsors annuels 2021
+## Nos Sponsors annuels 2022
 
 Ch'ti JUG est une organisation sponsorisée par les sponsors annuels suivants :
 
-image:/assets/images/sponsor/zenika.png[title="Zenika",alt="Zenika",height=80] et
+image:/assets/images/sponsor/axa.png[title="AXA",alt="AXA",height=80]
 image:/assets/images/sponsor/mediatech-cx.svg[title="Mediatech-CX",alt="Mediatech-CX",height=80]
+image:/assets/images/sponsor/octo-nord.png[title="OCTO Nord",alt="OCTO Nord",height=80]
+image:/assets/images/sponsor/zenika.png[title="Zenika",alt="Zenika",height=80]
 
 Nous tenons à les remercier pour leur confiance et leur engagement.
+
+## Nos partenaires
+
+Le Ch’ti JUG collabore avec des partenaires pour organiser les différentes sessions.
+
+image:/assets/images/partner/jetbrains.png[title="JetBrains",height="120",align="center"]
+
+*JetBrains* nous donne 2 licences par session, une pour le speaker et une pour les membres. Les licences sont valables pour un et un seul des produits de Jetbrains: IntelliJ IDEA, ReSharper, dotTrace, TeamCity ou RubyMine.

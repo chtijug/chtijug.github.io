@@ -18,7 +18,7 @@ Il existe des centaines de JUG dans le monde, une quinzaine en France, et le Ch�
 
 ## Objectifs
 
-Nous nous fixons comme objectif de réunir les acteurs des technologies Java™ de la région Nord Pas-de-Calais pour :
+Nous nous fixons comme objectif de réunir les acteurs des technologies Java™ de la région Hauts de France pour :
 
 - Partager la connaissance et les expériences autour des technologies Java™, et plus généralementde « l’écosystème » Java.
 - Favoriser les échanges entre acteurs Java régionaux, aussi bien industriels qu’universitaires etétudiants
@@ -28,14 +28,9 @@ Le tout dans un état d’esprit qui se veut professionnel pour le contenu et co
 
 ## Activité
 
-Depuis mai 2009, nous assurons une session par mois, avec des intervenants reconnus et référents dans leur domaine, français ou internationaux.
+Depuis mai 2009, nous assurons environ une session par mois, avec des intervenants reconnus et référents dans leur domaine, français ou internationaux.
 
-Les sujets concernent Java mais aussi « l’ecosystème » dont il fait partie. Voici quelques exemples :
-
-- La dernière norme Java EE 6, par Antonio Goncalves qui participe à la spécification
-- Hibernate Search, par Emmanuel Bernard, leader du projet chez JBoss
-- HTML 5 et WebSockets: un intervenant de la société Kaazing est venu de Californie pour nous présenter ces technologies particulièrement innovantes
-- Le moteur de règles open source Drools et le projet Drools Planner, présenté par leurs leaders respectifs britannique et belge
+Les sujets concernent Java mais aussi « l’ecosystème » dont il fait partie.
 
 ## Pourquoi sponsoriser le Ch’ti JUG ?
 
@@ -43,7 +38,7 @@ En sponsorisant le Ch’ti JUG, une société à l’opportunité d’associer s
 
 Le Ch’ti JUG est une occasion pour vos collaborateurs d’être en contact avec des experts internationaux, de bénéficier d’une veille technologique afin de rester compétitifs, et d’échanger avec leurs collègues sur l’état de l’art. Sponsoriser le JUG, c’est pouvoir continuer à assurer cette activité et investir sur son développement.
 
-Aujourd’hui, plus de 10 sponsors nous ont fait confiance : SSII, éditeurs, et DSI d’entreprises utilisatrices comme Adeo.
+Aujourd’hui, plus de 10 sponsors nous ont fait confiance : ESN, éditeurs, et DSI d’entreprises utilisatrices comme ADEO.
 
 ## Comment sponsoriser le Ch’ti JUG ?
 
