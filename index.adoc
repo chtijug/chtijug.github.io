@@ -14,6 +14,14 @@ Restez informés de nos prochains évènements en rejoignant notre groupe https:
 include::/_includes/meetup_calendar.html[]
 ++++
 
+## Dernières vidéos
+
+Les sessions sont enregistrés et diffusées gratuitement sur notre chaine https://www.youtube.com/channel/UCjdAEnxpuZlM1xb50hKj8fg[Youtube].
+
+++++
+include::/_includes/youtube_videos.html[]
+++++
+
 ## Nos Sponsors annuels 2023
 
 Ch'ti JUG est une organisation sponsorisée par les sponsors annuels suivants :
