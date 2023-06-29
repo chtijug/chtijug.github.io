@@ -10,13 +10,11 @@ Les prochains évènements ne sont pas annoncés sur ce site mais uniquement sur
 
 Ce blog pourra contenir des annonces non liées aux évènements du JUG.
 
-## Nos Sponsors annuels 2022
+## Nos Sponsors annuels 2023
 
 Ch'ti JUG est une organisation sponsorisée par les sponsors annuels suivants :
 
 image:/assets/images/sponsor/axa.png[title="AXA",alt="AXA",height=80]
-image:/assets/images/sponsor/mediatech-cx.svg[title="Mediatech-CX",alt="Mediatech-CX",height=80]
-image:/assets/images/sponsor/octo-nord.png[title="OCTO Nord",alt="OCTO Nord",height=80]
 image:/assets/images/sponsor/zenika.png[title="Zenika",alt="Zenika",height=80]
 
 Nous tenons à les remercier pour leur confiance et leur engagement.
