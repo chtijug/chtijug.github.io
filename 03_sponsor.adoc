@@ -12,7 +12,7 @@ Un JUG (Java™ User Group) est une communauté indépendante, constituée en as
 
 Ces réunions sont aussi l’occasion pour les participants de se rencontrer et nouer des nouveaux contacts autour du drink ou du buffet qui clôture traditionnellement les évènements d’un JUG.
 
-En tant qu’inventeur du langage Java™, Sun Microsystems et maintenant Oracle encourage et reconnaît (label) les JUG comme vecteurs de promotion pour cette technologie – cf. http://java.sun.com/community/usergroups/
+En tant qu’inventeur du langage Java™, Sun Microsystems et maintenant Oracle encourage et reconnaît (label) les JUG comme vecteurs de promotion pour cette technologie – cf. https://dev.java/community/jugs/
 
 Il existe des centaines de JUG dans le monde, une quinzaine en France, et le Ch’ti JUG est le JUG lillois.
 
