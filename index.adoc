@@ -16,7 +16,7 @@ include::/_includes/meetup_calendar.html[]
 
 ## Dernières vidéos
 
-Les sessions sont enregistrés et diffusées gratuitement sur notre chaine https://www.youtube.com/channel/UCjdAEnxpuZlM1xb50hKj8fg[Youtube].
+Les sessions sont enregistrés et diffusées gratuitement sur notre chaine https://www.youtube.com/@chtijug[Youtube].
 
 ++++
 include::/_includes/youtube_videos.html[]
