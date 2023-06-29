@@ -7,7 +7,7 @@ permalink: /contact-equipe/
 
 Pour nous contacter, une seule adresse : team@chtijug.org
 
-Les membres de l’équipe du Ch’ti JUG sont :
+Les membres actifs de l’équipe du Ch’ti JUG sont :
 
 - Julien Jakubowski (Président)
 - Gautier Dhordain (Vice Président)
@@ -15,8 +15,6 @@ Les membres de l’équipe du Ch’ti JUG sont :
 - Jérémy Sevellec (Secrétaire)
 - Guillaume Wallet
 - Logan Hauspie
-- Raphaël Bauduin
-- Loïc
 
 Les fondateurs du Ch'ti JUG sont :
 
