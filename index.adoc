@@ -4,7 +4,7 @@ layout: home
 
 Bienvenu au Ch'ti Java User Group !
 
-Le Ch’ti JUG est un groupe de développeurs ayant pour but de faire vivre la communauté des développeurs autours de Lille. Notre mission est d’organiser chaque mois une rencontre ayant pour thème le développement logiciel au sens large. Ces évènements sont mensuels, gratuits, et ouverts à tous. Chaque rencontre consiste en une présentation que se termine autour d’un verre et d’un buffet.
+Le Ch’ti JUG est un groupe de développeurs ayant pour but de faire vivre la communauté des développeurs autours de Lille. Notre mission est d’organiser chaque mois une rencontre ayant pour thème le développement logiciel au sens large. Ces évènements sont mensuels, gratuits et ouverts à tous. Chaque rencontre consiste en une présentation que se termine autour d’un verre et d’un buffet.
 
 ## Prochains évènements
 
@@ -16,7 +16,7 @@ include::/_includes/meetup_calendar.html[]
 
 ## Dernières vidéos
 
-Les sessions sont enregistrés et diffusées gratuitement sur notre chaine https://www.youtube.com/@chtijug[Youtube].
+Les sessions sont enregistrées et diffusées gratuitement sur notre chaine https://www.youtube.com/@chtijug[Youtube].
 
 ++++
 include::/_includes/youtube_videos.html[]

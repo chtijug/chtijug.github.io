@@ -8,20 +8,20 @@ permalink: /devenez-sponsor/
 
 ## Qu’est-ce qu’un JUG ?
 
-Un JUG (Java™ User Group) est une communauté indépendante, constituée en association sans but lucratif, qui rassemble les acteurs régionaux (industriels, universitaires, chercheurs, étudiants, recruteurs…) qui partagent un intérêt pour la technologie Java™. L’association réunit régulièrement ses membres pour échanger leurs idées, points de vue et expériences relatifs à cette technologie. Ces échanges peuvent prendre la forme de conférences, tables rondes,démonstrations, ateliers… selon l’intervenant et le sujet.
+Un JUG (Java™ User Group) est une communauté indépendante, constituée en association sans but lucratif, qui rassemble les acteurs régionaux (industriels, universitaires, chercheurs, étudiants, recruteurs…) qui partagent un intérêt pour la technologie Java™. L’association réunit régulièrement ses membres pour échanger leurs idées, points de vue et expériences relatifs à cette technologie. Ces échanges peuvent prendre la forme de conférences, tables rondes, démonstrations, ateliers… selon l’intervenant et le sujet.
 
-Ces réunions sont aussi l’occasion pour les participants de se rencontrer et nouer des nouveaux contacts autour du drink ou du buffet qui clôture traditionnellement les évènements d’un JUG.
+Ces réunions sont aussi l’occasion pour les participants de se rencontrer et nouer des nouveaux contacts autour d'un verre ou du buffet qui clôture traditionnellement les évènements d’un JUG.
 
-En tant qu’inventeur du langage Java™, Sun Microsystems et maintenant Oracle encourage et reconnaît (label) les JUG comme vecteurs de promotion pour cette technologie – cf. https://dev.java/community/jugs/
+En tant qu’inventeur du langage Java™, Sun Microsystems et maintenant Oracle encourage et reconnaît les JUG comme vecteurs de promotion pour cette technologie – cf. https://dev.java/community/jugs/
 
-Il existe des centaines de JUG dans le monde, une quinzaine en France, et le Ch’ti JUG est le JUG lillois.
+Il existe des centaines de JUG dans le monde, une vingtaine en France, et le Ch’ti JUG est le JUG lillois.
 
 ## Objectifs
 
 Nous nous fixons comme objectif de réunir les acteurs des technologies Java™ de la région Hauts de France pour :
 
-- Partager la connaissance et les expériences autour des technologies Java™, et plus généralementde « l’écosystème » Java.
-- Favoriser les échanges entre acteurs Java régionaux, aussi bien industriels qu’universitaires etétudiants
+- Partager la connaissance et les expériences autour des technologies Java™, et plus généralement de « l’écosystème » Java.
+- Favoriser les échanges entre acteurs Java régionaux, aussi bien industriels qu’universitaires et étudiants
 - Promouvoir les technologies Java™ et associées dans la région
 
 Le tout dans un état d’esprit qui se veut professionnel pour le contenu et convivial pour la forme.
