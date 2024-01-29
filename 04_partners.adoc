@@ -4,11 +4,15 @@ title: Partenaires
 permalink: /partenaires/
 ---
 
-# Partenaires
-
 Le Ch’ti JUG collabore avec des partenaires pour organiser les différentes sessions.
 
-Voici ceux qui nous accompagnent dans notre démarche :
+Nous sommes sponsorisés par les sponsors annuels suivants, merci à eux pour leur soutien !
+
+image:/assets/images/sponsor/axa.png[title="AXA",alt="AXA",height=80]
+image:/assets/images/sponsor/zenika.png[title="Zenika",alt="Zenika",height=80]
+image:/assets/images/sponsor/externatic.png[title="Externatic",alt="Externatic",height=80]
+
+Nous sommes également en partenariat avec *JetBrains* :
 
 image:/assets/images/partner/jetbrains.png[title="JetBrains",height="120",align="center"]
 
