@@ -4,6 +4,14 @@ title: Devenez sponsor
 permalink: /devenez-sponsor/
 ---
 
+# Nos sponsors annuels
+
+Ch'ti JUG est une organisation sponsorisée par les sponsors annuels suivants, merci à eux pour leur soutien !
+
+image:/assets/images/sponsor/axa.png[title="AXA",alt="AXA",height=80]
+image:/assets/images/sponsor/zenika.png[title="Zenika",alt="Zenika",height=80]
+image:/assets/images/sponsor/externatic.png[title="Externatic",alt="Externatic",height=80]
+
 # Devenez Sponsor
 
 ## Qu’est-ce qu’un JUG ?
