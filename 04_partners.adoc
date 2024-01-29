@@ -14,7 +14,7 @@ image:/assets/images/sponsor/externatic.png[title="Externatic",alt="Externatic",
 
 *Devoxx France* aura lieu sur 3 jours du mercredi 17 au vendredi 19 avril au Palais des Congrès à Paris !
 
-image:/assets/images/partner/devoxx-france.png[title="Devoxx France",alt="Devoxx France"]
+image:/assets/images/partner/devoxx-france-2.png[title="Devoxx France",alt="Devoxx France"]
 
 Nous sommes également en partenariat avec *JetBrains* :
 
