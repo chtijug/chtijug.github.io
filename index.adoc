@@ -8,7 +8,7 @@ Le Ch’ti JUG est un groupe de développeurs ayant pour but de faire vivre la c
 
 ## Prochains évènements
 
-Restez informés de nos prochains évènements en rejoignant notre groupe https://www.meetup.com/fr-FR/chtijug/[Meetup] ou en vous abonnant à notre compte https://twitter.com/chtijug[Twitter].
+Restez informés de nos prochains évènements en rejoignant notre groupe https://www.meetup.com/fr-FR/chtijug/[Meetup], en vous abonnant à notre compte https://www.linkedin.com/company/93120901[LinkedIn] ou https://twitter.com/chtijug[Twitter].
 
 ++++
 include::/_includes/meetup_calendar.html[]
