@@ -26,13 +26,13 @@ include::/_includes/youtube_videos.html[]
 
 Nous sommes impatients de recevoir vos propositions de présentation au Ch'ti JUG ! Pour soumettre, https://conference-hall.io/public/event/YVKFPslWdxh8vNC1o4Qd[cliquez sur ce lien].
 
-## Nos Sponsors annuels 2023
+## Nos Sponsors annuels 2025
 
 Ch'ti JUG est une organisation sponsorisée par les sponsors annuels suivants :
 
 image:/assets/images/sponsor/axa.png[title="AXA",alt="AXA",height=80]
+image:/assets/images/sponsor/norsys.png[title="Norsys",alt="Norsys",height=80]
 image:/assets/images/sponsor/zenika.png[title="Zenika",alt="Zenika",height=80]
-image:/assets/images/sponsor/externatic.png[title="Externatic",alt="Externatic",height=80]
 
 Nous tenons à les remercier pour leur confiance et leur engagement.
 
