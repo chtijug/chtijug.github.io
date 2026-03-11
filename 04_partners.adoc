@@ -6,15 +6,19 @@ permalink: /partenaires/
 
 Le Ch’ti JUG collabore avec des partenaires pour organiser les différentes sessions.
 
+== Sponsors annuels
 Nous sommes sponsorisés par les sponsors annuels suivants, merci à eux pour leur soutien !
 
 image:/assets/images/sponsor/axa.png[title="AXA",alt="AXA",height=80]
+image:/assets/images/sponsor/norsys.png[title="Norsys",alt="Norsys",height=80]
 image:/assets/images/sponsor/zenika.png[title="Zenika",alt="Zenika",height=80]
-image:/assets/images/sponsor/externatic.png[title="Externatic",alt="Externatic",height=80]
 
-*Devoxx France* aura lieu sur 3 jours du 16 au 18 avril au Palais des Congrès à Paris !
-image:/assets/images/partner/1057_226_devoxx_fr_2025.png[title="Devoxx France",alt="Devoxx France"]
+== Devoxx France 2026
+🤖 Rendez-vous du 22 au 24 avril 2026 pour https://www.devoxx.fr/[**Devoxx France**] !
+La plus grande conférence tech indépendante d'Europe revient au Palais des Congrès de Paris.
+image:/assets/images/partner/devoxx_fr_2026.png[title="Devoxx France",alt="Devoxx France"]
 
+== JetBrains
 Nous sommes également en partenariat avec *JetBrains* :
 
 image:/assets/images/partner/jetbrains.png[title="JetBrains",height="120",align="center"]
